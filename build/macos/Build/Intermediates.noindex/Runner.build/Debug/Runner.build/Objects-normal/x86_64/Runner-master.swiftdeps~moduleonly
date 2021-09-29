@@ -1,7 +1,0 @@
-version: "Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)"
-options: "49d0201d66dd9fcb806a57f556fa4544"
-build_time: [1632914751, 980365000]
-inputs:
-  "/Users/mac/Documents/code/flutter_bug_macos_demo/macos/Runner/MainFlutterWindow.swift": [1592577203, 765476942]
-  "/Users/mac/Documents/code/flutter_bug_macos_demo/macos/Runner/AppDelegate.swift": [1592577203, 758882880]
-  "/Users/mac/Documents/code/flutter_bug_macos_demo/macos/Flutter/GeneratedPluginRegistrant.swift": [1632914658, 412811866]

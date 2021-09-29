@@ -1,5 +1,0 @@
-version: "Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)"
-options: "29e9e5579568e2bbe8e0005ddb8baa9f"
-build_time: [1632914711, 35920000]
-inputs:
-  "/Users/mac/flutter/.pub-cache/hosted/pub.dartlang.org/connectivity_macos-0.1.0+7/macos/Classes/ConnectivityPlugin.swift": [1603732967, 0]

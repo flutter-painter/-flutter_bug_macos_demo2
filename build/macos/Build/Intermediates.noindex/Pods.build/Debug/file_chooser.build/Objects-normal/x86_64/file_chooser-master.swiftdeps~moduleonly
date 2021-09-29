@@ -1,5 +1,0 @@
-version: "Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)"
-options: "d1ae54654c05a6344476b1bc09a7ef5b"
-build_time: [1632914705, 628134000]
-inputs:
-  "/Users/mac/flutter/.pub-cache/hosted/pub.dartlang.org/file_chooser-0.1.6/macos/Classes/FileChooserPlugin.swift": [1598357602, 0]
